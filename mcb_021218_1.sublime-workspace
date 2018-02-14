@@ -541,7 +541,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 2027,
+				"buffer_size": 2028,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1223,22 +1223,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2027,
+						"buffer_size": 2028,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1986,
-								1986
+								2027,
+								2027
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 114,
+								"changes": 2,
 								"count": 334,
 								"modified": false,
 								"selection": false,
@@ -1324,12 +1324,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										2026,
+										2027
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										2008,
+										2009
+									]
 								},
 								"unmatched":
 								{
@@ -1397,7 +1412,7 @@
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 766.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1839,7 +1854,7 @@
 	"project": "mcb_021218_1.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
