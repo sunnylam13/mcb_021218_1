@@ -1,10 +1,4 @@
-Multiple Clipboard
-
-Multi-clipboard
-
-ABSP: 312
-
-ABSP: 318 (for extending MCB)
+# Multiple Clipboard
 
 Py program to track many pieces of text
 
@@ -76,3 +70,9 @@ the second command line argument is the keyword for the current content of the c
 The keyword will be used as the key for mcbShelf, and the value will be the text currently on the clipboard ➋.
 
 If there is only one command line argument, you will assume it is either 'list' or a keyword to load content onto the clipboard. 
+
+## References
+
+ABSP: 312
+
+ABSP: 318 (for extending MCB)
