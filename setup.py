@@ -4,16 +4,16 @@ except ImportError:
 	from distutils.core import setup
 
 config = {
-	'description': 'My Project',
-	'author': 'My Name',
-	'url': 'URL to get it at',
-	'download_url': 'Where to download it',
-	'author_email': 'My email',
+	'description': 'Madlibs program that replaces ADJECTIVE, VERB, NOUN, etc with a word of your choosing.',
+	'author': 'Sunny Lam',
+	'url': 'https://github.com/sunnylam13/mcb_021218_1',
+	'download_url': 'https://github.com/sunnylam13/mcb_021218_1',
+	'author_email': 'sunny.lam@gmail.com',
 	'version': '0.1',
 	'install_requires': ['nose'],
-	'packages': ['NAME'],
+	'packages': ['shelve, pyperclip, sys'],
 	'scripts': [],
-	'name': 'projectname'
+	'name': 'Multiple Clipboard'
 }
 
 setup(**config)
